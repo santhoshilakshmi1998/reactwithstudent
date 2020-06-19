@@ -1,0 +1,32 @@
+body{
+	background-color: #91DDAA;
+}
+#main{
+	background-color: #61CF86;
+	margin: 5%;
+	display: flex;
+
+	justify-content:space-around;
+	border-radius: 4%; 
+}
+
+.sub{
+	background-color: #39784E;
+	width: 15%;
+	margin: 7%;
+	height: 10%;
+	border-radius: 5%;
+	text-align: center;
+}
+.sub:hover{
+	color: #91DDAA;
+}
+img{
+	width: 50%;
+	height: 50%;
+	border-radius: 15%;
+	margin: 4%;
+}
+a{
+	color: black;
+}
